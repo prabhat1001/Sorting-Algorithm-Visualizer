@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "sorting visualiser",
+			"path": "..\\sorting visualiser"
+		},
+		{
+			"name": "Sorting-Algorithm-Visualizer",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Sorting-Algorithm-Visualizer"
+	}
+}
